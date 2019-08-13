@@ -12,21 +12,21 @@ NeedItUtils.prototype = {
     initialize: function() {
     },
 	
-// 	isDatePast: function(strDate){
-// 		// Create GlideDateTime objects for the current date and the passed in date
-// 		var rightnow = new GlideDateTime();
-// 		var testdate = new GlideDateTime(strDate);
-// 		gs.info(+ rightnow);
-// 		gs.info(+ testdate);
+	isDatePast: function(strDate){
+		// Create GlideDateTime objects for the current date and the passed in date
+		var rightnow = new GlideDateTime();
+		var testdate = new GlideDateTime(strDate);
+		gs.info(+ rightnow);
+		gs.info(+ testdate);
 		
-// 		// If the testdate is before rightnow, return true, else return false
-// 		if (testdate.before(rightnow)) {
-// 			return true;
-// 		}
-// 		else {
-// 			return false;
-// 		}
-// 	},
+		// If the testdate is before rightnow, return true, else return false
+		if (testdate.before(rightnow)) {
+			return true;
+		}
+		else {
+			return false;
+		}
+	},
 	
 	
 	isDateToday: function(strDate){
@@ -54,13 +54,13 @@ NeedItUtils.prototype = {
         <sys_created_by>harshitc</sys_created_by>
         <sys_created_on>2019-08-13 09:31:02</sys_created_on>
         <sys_id>f60c1320dbd33300df61bd513996197d</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>NeedItUtils</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_script_include_f60c1320dbd33300df61bd513996197d</sys_update_name>
-        <sys_updated_by>harshitc</sys_updated_by>
-        <sys_updated_on>2019-08-13 10:38:20</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 10:53:00</sys_updated_on>
     </sys_script_include>
 </record_update>
