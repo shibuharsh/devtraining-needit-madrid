@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-07-23 10:55:55</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>harshitc</sys_created_by>
+        <sys_created_on>2019-07-23 10:55:55</sys_created_on>
+        <sys_id>7c66e771db727300df61bd513996194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4121F846D2C6D4B553C749383B8A5FFF93B2BEA365F2D20B3F3D7707F904962B</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_7c66e771db727300df61bd513996194e</sys_update_name>
+        <sys_updated_by>harshitc</sys_updated_by>
+        <sys_updated_on>2019-07-23 10:55:55</sys_updated_on>
+        <sys_user_id display_value="Harshit Chauhan">ea2d5b25db223300df61bd5139961957</sys_user_id>
+        <token>4121F846D2C6D4B553C749383B8A5FFF93B2BEA365F2D20B3F3D7707F904962B</token>
+    </sys_push_notif_app_install>
+</record_update>
